@@ -1,0 +1,5 @@
+1.Find if any null value and if yes then fill it with the mean of that column
+2.Using value counts check what are the different types of make in our data set , and what is the count of each make in the data
+3.Show all the records where origin is asia or europe
+4.Remove the unwanted Records where weight > 4000
+5.applying a function on a column.increase all the values of mpgcity column by 3

@@ -1,0 +1,9 @@
+1.Remove the column that only contains missing values(try to fill nan)
+2.FOr speeding , were men or women stopped more often
+3.Does gender affect who gets searched during a stop
+4.What is the mean  of stop duration(Mapping + data type casting)
+5.compare the age distributions for each violation using the groupby and describe functions
+
+
+
+

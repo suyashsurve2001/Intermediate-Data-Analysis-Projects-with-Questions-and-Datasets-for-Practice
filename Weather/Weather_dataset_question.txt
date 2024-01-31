@@ -1,0 +1,16 @@
+1.shows number of unique values
+2.shows total number null values
+3.FIND all the unique Wind Speed values in data
+4.Find the number of times when the 'Weather is exactly clear'(3 methods:value count ,filtering ,group by)
+5.FInd the number of times when the windspeed was exactly 4km/h
+6.Rename the column name 'Weather' of the dataframe to 'Weather condition'
+7.What is the mean Visiblity
+8.What is std deviation of "pressure" in this data
+9.What is the variance of "Relavtive Humidity"
+10.FInd all instance when snow was recordded (3 methods:value count ,filtering ,str.contains)
+11.Find all instances when 'Wind Speed is above 24' and visiblity us '25'
+12.what is the mean value for each column against 'Weather condition' According to weather condition
+13.What is the min and max value of each column against each 'Weather Condition'
+14.Show all the records where weather condition is Fog
+15.Find all the instances where weather is clear and visiblity is above 40
+16.Find all the instances when :Weather is clear and relative humidity is > 50 or Visiblity is above 40

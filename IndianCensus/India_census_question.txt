@@ -1,0 +1,7 @@
+1.How will you hide the indexes of dataframe
+2.How can we set the caption / heading on df
+3.Show the records related with the districts - New Delhi , Lucknow , Jaipur
+4.Calculate state-wise(a.total number of population,b.Total no of population with different religions)
+5.How many male workers were there in maharashtra state
+6.How to set a column as index of data frame
+7.Add a suffix to column names

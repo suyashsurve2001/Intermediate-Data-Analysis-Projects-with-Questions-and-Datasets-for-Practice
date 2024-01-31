@@ -1,0 +1,9 @@
+1.Lets visualize the data suing a heat map(null data)
+2.Show the number of Confirmed , Deaths and Recovered cases in each region
+3.Remove all rcords where confirmed cases is less than 10
+4.In which region maximum number of confirmed cases were recorded
+5.In which region minimum number of confirmed cases were recorded
+6.In which region minimum number of Deaths were recorded
+7.How many Confirmed Deaths and recovered cases were reported from india till 29 april 2020
+8.Sort the entire data with respect to no of confirmed cases in ascending orde
+9.Sort the entire data with respect to no of Recovered cases in descending order

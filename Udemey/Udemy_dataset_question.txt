@@ -1,0 +1,11 @@
+1.What are the different subjects for which udemy is offering courses
+2.Which subject has the maximum number of courses
+3.show all the courses which are free of cost
+4.show all the courses which are paid
+5.Which are the top selling courses
+6.Which are the least selling courses
+7.Show all courses of graphic design where price is below 100
+8.Show all courses of graphic design where price is 100
+9.List all the courses which are related with python
+10.What are the courses published in 2015
+11.What are the max no of subscribers for each level of courses

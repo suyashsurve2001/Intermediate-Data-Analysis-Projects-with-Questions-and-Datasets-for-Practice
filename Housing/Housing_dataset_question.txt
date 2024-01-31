@@ -1,0 +1,9 @@
+
+1.Convert the datatype of 'Date' to Date-time format
+2.Add a new column 'Year' which contains year only
+3.Add a new column 'month' as second column which contains month only to insert new column at a particular index we use insert
+4.Remove the columns year and months from dataframe
+5.Show all records where no of crimes is 0 and how many such records are there
+6.what is minimum and maximum average price per year in england
+7.What is the minimum and maximum no of crimes recorded per area
+8.Show the total count of records of each area where average price is less than 100000
